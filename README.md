@@ -1,5 +1,6 @@
 Light Logger
 ------
+The light sensing device (“Light Logger”) is an electronic device that measures and records light intensity. Basically, light logger measures the light intensity illuminating the device's surface and records the measurements on an SD card together with the time of the measurements. Light Logger is going to be deployed on the campus of Trinity College Dublin, Dublin, Ireland to monitor the daylight available on the campus. The data collected will be used to evaluate the simulation of solar irradiance which is part of a research project at New York University, Center for Urban Science and Progress. 
 
 ## Sensor components
 - [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796)
