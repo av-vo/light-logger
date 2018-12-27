@@ -1,13 +1,13 @@
 Light Logger
 ------
-The light sensing device (“Light Logger”) is an electronic device that measures and records light intensity. Basically, light logger measures the light intensity illuminating the device's surface and records the measurements on an SD card together with the time of the measurements. Light Logger is going to be deployed on the campus of Trinity College Dublin, Dublin, Ireland to monitor the daylight available on the campus. The data collected will be used to evaluate the simulation of solar irradiance which is part of a research project at New York University, Center for Urban Science and Progress. 
+The light sensing device (“Light Logger”) is an electronic device that measures the light intensity illuminating the device's surface and records the measurements onto an SD card together with the time of the measurements. Light Logger is being deployed at the building of the Department of Electronic & Electrical Engineering, Trinity College Dublin to monitor the sunlight amount at different spots around the building. The data collected is being used to evaluate the solar potential simulation done by NYU CUSP Urban Modeling Group. 
 
 ## Sensor components
 - [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796)
 - [DS3231 clock](https://datasheets.maximintegrated.com/en/ds/DS3231.pdf)
 - [TSL2561 light sensor](https://www.adafruit.com/product/439)
 
-![sensor-image](img/sensor.png "Light Logger")
+![sensor-image](img/sensor.png =250x "Light Logger" )
 
 ## Setup
 - Download and install the Arduino IDE from [here](https://www.arduino.cc/en/Main/Software).
