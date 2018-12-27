@@ -7,6 +7,8 @@ The light sensing device (“Light Logger”) is an electronic device that measu
 - [DS3231 clock](https://datasheets.maximintegrated.com/en/ds/DS3231.pdf)
 - [TSL2561 light sensor](https://www.adafruit.com/product/439)
 
+<img src="img/sensor.png">
+
 ## Setup
 - Download and install the Arduino IDE from [here](https://www.arduino.cc/en/Main/Software).
 - Copy all libraries in the `arduino/lib` directory to the [Arduino library directory](https://www.arduino.cc/en/Guide/Libraries#toc5) on your machine.
