@@ -8,7 +8,7 @@ The light sensing device (“Light Logger”) is an electronic device that measu
 - [TSL2561 light sensor](https://www.adafruit.com/product/439)
 
 
-<img src="img/sensor.png" alt="sensor-image" width="300"/>
+<img src="img/sensor.png" alt="sensor-image" width="400px"/>
 
 ## Setup
 - Download and install the Arduino IDE from [here](https://www.arduino.cc/en/Main/Software).
